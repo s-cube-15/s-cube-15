@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @s-cube-15</h1>
-<h3 align="center">A passionate Competitive Programmer from India</h3>
+<h3 align="center">A passionate Competitive Programmer </h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
@@ -32,14 +32,14 @@
   <tr>
     <td>
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-cube-15&show_icons=true&theme=dracula)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-cube-15&show_icons=true&theme=darcula)
    </td>
 
    <td>  
 
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s-cube-15&theme=dracula)
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s-cube-15&theme=darcula)
      </td>
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s-cube-15&&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s-cube-15&&theme=darcula)
