@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm @s-cube-15</h1>
-<h3 align="center">A passionate Competitive Programmer </h3>
+<h1 align="center">Hi 👋, I'm Sudhanshu</h1>
+
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
