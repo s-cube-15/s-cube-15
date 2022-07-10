@@ -23,7 +23,7 @@
 <a href="https://www.codechef.com/users/s_cube_15" target="blank"><img align="center" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="s_cube_15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/s_cube_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_cube_15" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/s-cube-15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s-cube-15" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/2ec1cdfd-a127-4a9b-8f36-712df2f6573c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codingninja.svg" alt="2ec1cdfd-a127-4a9b-8f36-712df2f6573c" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/2ec1cdfd-a127-4a9b-8f36-712df2f6573c" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D504102096460293&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcodingninjas%2F&tbnid=TTgsyBaVsmvEDM&vet=12ahUKEwjpsPW68u74AhXSk9gFHcLtAYEQMygIegUIARDqAQ..i&docid=bx2SfQTvNSnNpM&w=1080&h=1080&q=coding%20ninjas%20logo&ved=2ahUKEwjpsPW68u74AhXSk9gFHcLtAYEQMygIegUIARDqAQ" alt="2ec1cdfd-a127-4a9b-8f36-712df2f6573c" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
