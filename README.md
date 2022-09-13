@@ -23,7 +23,7 @@
 <a href="https://www.codechef.com/users/s_cube_15" target="blank"><img align="center" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="s_cube_15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/s_cube_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_cube_15" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/s-cube-15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s-cube-15" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/2ec1cdfd-a127-4a9b-8f36-712df2f6573c" target="blank"><img align="center" src="https://scontent.fbom2-2.fna.fbcdn.net/v/t39.30808-6/281693279_1964122073791614_6900146813124004361_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=O0CcpO81ooMAX-9_y-u&_nc_ht=scontent.fbom2-2.fna&oh=00_AT88SPNPjhhpU57ynEZ2RovglvloHrpV1T-VElC_caIQNQ&oe=62CFE207" alt="2ec1cdfd-a127-4a9b-8f36-712df2f6573c" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/2ec1cdfd-a127-4a9b-8f36-712df2f6573c" target="blank"><img align="center" src="https://scontent.fbom2-1.fna.fbcdn.net/v/t1.6435-9/102461524_1415239665346527_2627193212096385859_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=101&ccb=1-7&_nc_sid=7aed08&_nc_ohc=14Ow-UesUDAAX9q0ZlB&_nc_ht=scontent.fbom2-1.fna&oh=00_AT-71a_5M9sPsT3heIvjt9yOJJodzNKSmjTsTtMbQxWghA&oe=634447F0" alt="2ec1cdfd-a127-4a9b-8f36-712df2f6573c" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
