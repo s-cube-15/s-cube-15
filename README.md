@@ -43,4 +43,3 @@
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s-cube-15&&theme=darcula)
